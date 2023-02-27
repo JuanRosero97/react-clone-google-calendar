@@ -1,0 +1,28 @@
+ul li.eventValue::before {
+    content: "\2022"; 
+    color: rgb(3, 155, 229); 
+    font-weight: bold; 
+    display: inline-block; 
+    margin-right: 6px;
+    margin-left: 6px;
+    font-size: 220%;
+}
+
+.eventValue{
+    line-height: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex; 
+    /* width: calc(90%); */
+    list-style-position:inside;
+    white-space: nowrap;
+    transition: background-color .1s linear;
+    cursor: pointer;
+}
+
+.eventValue:hover {
+    background-color: rgb(241,243,244);
+    border-radius: 4px;
+}
