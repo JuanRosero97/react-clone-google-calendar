@@ -1,5 +1,8 @@
 <p align="center" width="300">
-   <img align="center" width="200" border-radius="50%" src="https://media.licdn.com/dms/image/D4E03AQH9XLkHt4hEqw/profile-displayphoto-shrink_200_200/0/1676221969296?e=1683158400&v=beta&t=g27qFlHBpMqjO2dC0B0eVaT9pOKIQCrBKRvFQZlNIW4" />
+   <img align="center" width="200"  style="border-radius:50%" src="https://media.licdn.com/dms/image/D4E03AQH9XLkHt4hEqw/profile-displayphoto-shrink_200_200/0/1676221969296?e=1683158400&v=beta&t=g27qFlHBpMqjO2dC0B0eVaT9pOKIQCrBKRvFQZlNIW4" />
+   
+      ![Back #1]([https://github.com/JuanRosero97/react-clone-google-calendar/blob/main/screenshots/sc_1.png](https://media.licdn.com/dms/image/D4E03AQH9XLkHt4hEqw/profile-displayphoto-shrink_200_200/0/1676221969296?e=1683158400&v=beta&t=g27qFlHBpMqjO2dC0B0eVaT9pOKIQCrBKRvFQZlNIW4)) {: style="width:600px"}
+   
    <h3 align="center">¡Hola! Soy Juan Rosero 👨🏻‍💻</h3>
 </p>
 
