@@ -9,7 +9,7 @@
 
 ## Acerca de este proyecto
 
-Un auténtico clon con fines educativos de Google Calendar. Para construir el proyecto he usado React y Tailwind.css. La información de los eventos que se presenta es real y es tomada de mi propia cuenta de google, para eso se creo un api en express y desde el front se consume dicha api para la carga dinamica de información.
+Un auténtico clon con fines educativos de Google Calendar. Para construir el proyecto he usado React y Tailwind.css. La información de los eventos que se presenta es real y es tomada de mi propia cuenta de google, para eso se creo un api en express ( https://github.com/JuanRosero97/express-api-clone-google-calendar ) y desde el front se consume dicha api para la carga dinamica de información.
 
 ## Environment
 
