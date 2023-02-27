@@ -1,6 +1,4 @@
-<p align="center" width="300">
-   <img align="center" height="auto" width="200" class="imgr" src="https://media.licdn.com/dms/image/D4E03AQH9XLkHt4hEqw/profile-displayphoto-shrink_200_200/0/1676221969296?e=1683158400&v=beta&t=g27qFlHBpMqjO2dC0B0eVaT9pOKIQCrBKRvFQZlNIW4" />
-   
+<p align="center" width="300">  
    <h3 align="center">¡Hola! Soy Juan Rosero 👨🏻‍💻</h3>
 </p>
 
